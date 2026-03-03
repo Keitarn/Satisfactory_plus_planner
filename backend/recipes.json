@@ -314,5 +314,43 @@
         "quantity": 7.5
       }
     ]
+  },
+  {
+    "name": "Zinc Plate",
+    "code": "zinc_plate",
+    "quantity": 15,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "zinc_ingot", "quantity": 12.5 }
+    ]
+  },
+  {
+    "name": "Silica",
+    "code": "silica",
+    "quantity": 45,
+    "building": "Foundry",
+    "inputs": [
+      { "code": "sand", "quantity": 30 },
+      { "code": "magnesium_granule", "quantity": 27 }
+    ]
+  },
+  {
+    "name": "Solar Cell",
+    "code": "solar_cell",
+    "quantity": 11.25,
+    "building": "Foundry",
+    "inputs": [
+      { "code": "silica", "quantity": 67.5 },
+      { "code": "zinc_plate", "quantity": 22.5 }
+    ]
+  },
+  {
+    "name": "Concrete",
+    "code": "concrete",
+    "quantity": 15,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "crushed_gangue", "quantity": 45 }
+    ]
   }
 ]
