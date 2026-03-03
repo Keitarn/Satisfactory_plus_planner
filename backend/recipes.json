@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Iron Plate",
+    "code": "iron_plate",
+    "quantity": 20,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "iron_ingot", "quantity": 30 }
+    ]
+  },
+  {
+    "name": "Screws",
+    "code": "screws",
+    "quantity": 50,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "iron_rod", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Iron Rod",
+    "code": "iron_rod",
+    "quantity": 15,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "iron_ingot", "quantity": 15 }
+    ]
+  },
+  {
+    "name": "Iron Sheet",
+    "code": "iron_sheet",
+    "quantity": 50,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "iron_plate", "quantity": 40 }
+    ]
+  },
+  {
+    "name": "Copper Rod",
+    "code": "copper_rod",
+    "quantity": 18,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "copper_ingot", "quantity": 12 }
+    ]
+  },
+  {
+    "name": "Copper Sheet",
+    "code": "copper_sheet",
+    "quantity": 30,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "copper_ingot", "quantity": 24 }
+    ]
+  },
+  {
+    "name": "Bronze Beam",
+    "code": "bronze_beam",
+    "quantity": 7.5,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "bronze_ingot", "quantity": 22.5 }
+    ]
+  },
+  {
+    "name": "Bronze Plate",
+    "code": "bronze_plate",
+    "quantity": 24,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "bronze_ingot", "quantity": 30 }
+    ]
+  },
+  {
+    "name": "Tin Rod",
+    "code": "tin_rod",
+    "quantity": 15,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "tin_ingot", "quantity": 30 }
+    ]
+  },
+  {
+    "name": "Iron Wire",
+    "code": "iron_wire",
+    "quantity": 30,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "iron_rod", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Wire",
+    "code": "wire",
+    "quantity": 30,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "copper_rod", "quantity": 18 }
+    ]
+  },
+  {
+    "name": "Copper Busbar",
+    "code": "copper_busbar",
+    "quantity": 15,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "copper_rod", "quantity": 24 }
+    ]
+  },
+  {
+    "name": "Cable",
+    "code": "cable",
+    "quantity": 30,
+    "building": "Constructor",
+    "inputs": [
+      { "code": "wire", "quantity": 60 }
+    ]
+  },
+  {
+    "name": "Bronze Ingot",
+    "code": "bronze_ingot",
+    "quantity": 45,
+    "building": "Foundry",
+    "inputs": [
+      { "code": "copper_ingot", "quantity": 36 },
+      { "code": "tin_ingot", "quantity": 15 }
+    ]
+  },
+  {
+    "name": "Bronze Pipe",
+    "code": "bronze_pipe",
+    "quantity": 36,
+    "building": "Foundry",
+    "inputs": [
+      { "code": "copper_ingot", "quantity": 24 },
+      { "code": "tin_ingot", "quantity": 15 }
+    ]
+  },
+  {
+    "name": "Smooth Belt Drive",
+    "code": "smooth_belt_drive",
+    "quantity": 18.75,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "tin_sheet", "quantity": 15 },
+      { "code": "rotor", "quantity": 3.75 }
+    ]
+  },
+  {
+    "name": "Tin Plate",
+    "code": "tin_plate",
+    "quantity": 40,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "tin_ingot", "quantity": 30 },
+      { "code": "iron_plate", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Tin Wire",
+    "code": "tin_wire",
+    "quantity": 90,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "wire", "quantity": 60 },
+      { "code": "tin_rod", "quantity": 45 }
+    ]
+  },
+  {
+    "name": "Tin Sheet",
+    "code": "tin_sheet",
+    "quantity": 40,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "tin_ingot", "quantity": 20 },
+      { "code": "copper_sheet", "quantity": 20 }
+    ]
+  },
+  {
+    "name": "Rotor",
+    "code": "rotor",
+    "quantity": 7.5,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "copper_busbar", "quantity": 22.5 },
+      { "code": "iron_wire", "quantity": 60 }
+    ]
+  },
+  {
+    "name": "Reinforced Iron Plate",
+    "code": "reinforced_iron_plate",
+    "quantity": 5,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "tin_plate", "quantity": 20 },
+      { "code": "screws", "quantity": 37.5 }
+    ]
+  },
+  {
+    "name": "Bronze Frame",
+    "code": "bronze_frame",
+    "quantity": 5,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "bronze_beam", "quantity": 10 },
+      { "code": "bronze_pipe", "quantity": 24 }
+    ]
+  },
+  {
+    "name": "Modular Frame",
+    "code": "modular_frame",
+    "quantity": 8,
+    "building": "Assembler",
+    "inputs": [
+      { "code": "reinforced_iron_plate", "quantity": 7.5 },
+      { "code": "bronze_beam", "quantity": 7.5 }
+    ]
+  }
+]
