@@ -5,7 +5,10 @@
     "quantity": 20,
     "building": "Constructor",
     "inputs": [
-      { "code": "iron_ingot", "quantity": 30 }
+      {
+        "code": "iron_ingot",
+        "quantity": 30
+      }
     ]
   },
   {
@@ -14,7 +17,10 @@
     "quantity": 50,
     "building": "Constructor",
     "inputs": [
-      { "code": "iron_rod", "quantity": 20 }
+      {
+        "code": "iron_rod",
+        "quantity": 20
+      }
     ]
   },
   {
@@ -23,7 +29,10 @@
     "quantity": 15,
     "building": "Constructor",
     "inputs": [
-      { "code": "iron_ingot", "quantity": 15 }
+      {
+        "code": "iron_ingot",
+        "quantity": 15
+      }
     ]
   },
   {
@@ -32,7 +41,10 @@
     "quantity": 50,
     "building": "Constructor",
     "inputs": [
-      { "code": "iron_plate", "quantity": 40 }
+      {
+        "code": "iron_plate",
+        "quantity": 40
+      }
     ]
   },
   {
@@ -41,7 +53,10 @@
     "quantity": 18,
     "building": "Constructor",
     "inputs": [
-      { "code": "copper_ingot", "quantity": 12 }
+      {
+        "code": "copper_ingot",
+        "quantity": 12
+      }
     ]
   },
   {
@@ -50,7 +65,10 @@
     "quantity": 30,
     "building": "Constructor",
     "inputs": [
-      { "code": "copper_ingot", "quantity": 24 }
+      {
+        "code": "copper_ingot",
+        "quantity": 24
+      }
     ]
   },
   {
@@ -59,7 +77,10 @@
     "quantity": 7.5,
     "building": "Constructor",
     "inputs": [
-      { "code": "bronze_ingot", "quantity": 22.5 }
+      {
+        "code": "bronze_ingot",
+        "quantity": 22.5
+      }
     ]
   },
   {
@@ -68,7 +89,10 @@
     "quantity": 24,
     "building": "Constructor",
     "inputs": [
-      { "code": "bronze_ingot", "quantity": 30 }
+      {
+        "code": "bronze_ingot",
+        "quantity": 30
+      }
     ]
   },
   {
@@ -77,7 +101,10 @@
     "quantity": 15,
     "building": "Constructor",
     "inputs": [
-      { "code": "tin_ingot", "quantity": 30 }
+      {
+        "code": "tin_ingot",
+        "quantity": 30
+      }
     ]
   },
   {
@@ -86,7 +113,10 @@
     "quantity": 30,
     "building": "Constructor",
     "inputs": [
-      { "code": "iron_rod", "quantity": 20 }
+      {
+        "code": "iron_rod",
+        "quantity": 20
+      }
     ]
   },
   {
@@ -95,7 +125,10 @@
     "quantity": 30,
     "building": "Constructor",
     "inputs": [
-      { "code": "copper_rod", "quantity": 18 }
+      {
+        "code": "copper_rod",
+        "quantity": 18
+      }
     ]
   },
   {
@@ -104,7 +137,10 @@
     "quantity": 15,
     "building": "Constructor",
     "inputs": [
-      { "code": "copper_rod", "quantity": 24 }
+      {
+        "code": "copper_rod",
+        "quantity": 24
+      }
     ]
   },
   {
@@ -113,7 +149,10 @@
     "quantity": 30,
     "building": "Constructor",
     "inputs": [
-      { "code": "wire", "quantity": 60 }
+      {
+        "code": "wire",
+        "quantity": 60
+      }
     ]
   },
   {
@@ -122,8 +161,14 @@
     "quantity": 45,
     "building": "Foundry",
     "inputs": [
-      { "code": "copper_ingot", "quantity": 36 },
-      { "code": "tin_ingot", "quantity": 15 }
+      {
+        "code": "copper_ingot",
+        "quantity": 36
+      },
+      {
+        "code": "tin_ingot",
+        "quantity": 15
+      }
     ]
   },
   {
@@ -132,8 +177,14 @@
     "quantity": 36,
     "building": "Foundry",
     "inputs": [
-      { "code": "copper_ingot", "quantity": 24 },
-      { "code": "tin_ingot", "quantity": 15 }
+      {
+        "code": "copper_ingot",
+        "quantity": 24
+      },
+      {
+        "code": "tin_ingot",
+        "quantity": 15
+      }
     ]
   },
   {
@@ -142,8 +193,14 @@
     "quantity": 18.75,
     "building": "Assembler",
     "inputs": [
-      { "code": "tin_sheet", "quantity": 15 },
-      { "code": "rotor", "quantity": 3.75 }
+      {
+        "code": "tin_sheet",
+        "quantity": 15
+      },
+      {
+        "code": "rotor",
+        "quantity": 3.75
+      }
     ]
   },
   {
@@ -152,8 +209,14 @@
     "quantity": 40,
     "building": "Assembler",
     "inputs": [
-      { "code": "tin_ingot", "quantity": 30 },
-      { "code": "iron_plate", "quantity": 20 }
+      {
+        "code": "tin_ingot",
+        "quantity": 30
+      },
+      {
+        "code": "iron_plate",
+        "quantity": 20
+      }
     ]
   },
   {
@@ -162,8 +225,14 @@
     "quantity": 90,
     "building": "Assembler",
     "inputs": [
-      { "code": "wire", "quantity": 60 },
-      { "code": "tin_rod", "quantity": 45 }
+      {
+        "code": "wire",
+        "quantity": 60
+      },
+      {
+        "code": "tin_rod",
+        "quantity": 45
+      }
     ]
   },
   {
@@ -172,8 +241,14 @@
     "quantity": 40,
     "building": "Assembler",
     "inputs": [
-      { "code": "tin_ingot", "quantity": 20 },
-      { "code": "copper_sheet", "quantity": 20 }
+      {
+        "code": "tin_ingot",
+        "quantity": 20
+      },
+      {
+        "code": "copper_sheet",
+        "quantity": 20
+      }
     ]
   },
   {
@@ -182,8 +257,14 @@
     "quantity": 7.5,
     "building": "Assembler",
     "inputs": [
-      { "code": "copper_busbar", "quantity": 22.5 },
-      { "code": "iron_wire", "quantity": 60 }
+      {
+        "code": "copper_busbar",
+        "quantity": 22.5
+      },
+      {
+        "code": "iron_wire",
+        "quantity": 60
+      }
     ]
   },
   {
@@ -192,8 +273,14 @@
     "quantity": 5,
     "building": "Assembler",
     "inputs": [
-      { "code": "tin_plate", "quantity": 20 },
-      { "code": "screws", "quantity": 37.5 }
+      {
+        "code": "tin_plate",
+        "quantity": 20
+      },
+      {
+        "code": "screws",
+        "quantity": 37.5
+      }
     ]
   },
   {
@@ -202,8 +289,14 @@
     "quantity": 5,
     "building": "Assembler",
     "inputs": [
-      { "code": "bronze_beam", "quantity": 10 },
-      { "code": "bronze_pipe", "quantity": 24 }
+      {
+        "code": "bronze_beam",
+        "quantity": 10
+      },
+      {
+        "code": "bronze_pipe",
+        "quantity": 24
+      }
     ]
   },
   {
@@ -212,8 +305,14 @@
     "quantity": 8,
     "building": "Assembler",
     "inputs": [
-      { "code": "reinforced_iron_plate", "quantity": 7.5 },
-      { "code": "bronze_beam", "quantity": 7.5 }
+      {
+        "code": "reinforced_iron_plate",
+        "quantity": 7.5
+      },
+      {
+        "code": "bronze_beam",
+        "quantity": 7.5
+      }
     ]
   }
 ]
